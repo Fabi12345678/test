@@ -9,7 +9,7 @@
  * @patreon https://www.patreon.com/MircoWittrien
  * @website https://mwittrien.github.io/
  * @source https://github.com/Fabi12345678/test/blob/main/
- * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Plugins/ShowHiddenChannels/ShowHiddenChannels.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/Fabi12345678/test/main/ShowHiddenChannels.plugin.js
  */
 
 module.exports = (_ => {
